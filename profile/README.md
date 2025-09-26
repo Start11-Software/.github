@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.stardock.com/products/start11/images/top/screen/v2/Hero1_v2.png" width="1080"/>
+  <img src="https://www.stardock.com/products/start11/images/top/screen/v2/Hero4.png" width="1080"/>
 </div>
 
 ## 🖌️ Overview  
